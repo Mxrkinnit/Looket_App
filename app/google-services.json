@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785891293338",
+    "project_id": "looket-app",
+    "storage_bucket": "looket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785891293338:android:915515dd1d2896e2fb8723",
+        "android_client_info": {
+          "package_name": "com.example.looketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785891293338-p6gcfubu9scl3sfq2o54ohufg3pm2p72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZHKoZ-DH-M69P_N8pP-6_9_B0VN-aRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785891293338-p6gcfubu9scl3sfq2o54ohufg3pm2p72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
